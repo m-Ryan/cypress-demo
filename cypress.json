@@ -1,0 +1,8 @@
+{
+    "testFiles": "**/*.feature",
+    "ignoreTestFiles": "*.ts",
+    "env": {
+        "phone": "18320665011",
+        "password": "41841800"
+      }
+}
